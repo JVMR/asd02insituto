@@ -2476,6 +2476,18 @@
                         <children xmi:type="notation:BasicDecorationNode" xmi:id="_wimSMUqeEeSWauiF0HUlNQ" type="Parent"/>
                         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wij18UqeEeSWauiF0HUlNQ" x="219" y="58293" width="3960" height="1437"/>
                       </children>
+                      <children xmi:type="notation:Shape" xmi:id="_QkP34GXJEeSMvoY2CznM7A" type="Note" fontName="Segoe UI" fontHeight="8" description="&lt;p>Cualquier cosa&lt;/p>" fillColor="13956346" transparency="0" lineColor="12632258" lineWidth="1">
+                        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Qkg9oGXJEeSMvoY2CznM7A" type="DiagramName">
+                          <element xsi:nil="true"/>
+                        </children>
+                        <children xmi:type="notation:BasicDecorationNode" xmi:id="_QkiLwGXJEeSMvoY2CznM7A" type="Description">
+                          <element xsi:nil="true"/>
+                        </children>
+                        <styles xmi:type="notation:TextStyle" xmi:id="_QkP34WXJEeSMvoY2CznM7A"/>
+                        <styles xmi:type="notation:LineTypeStyle" xmi:id="_QkP34mXJEeSMvoY2CznM7A"/>
+                        <element xsi:nil="true"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QkP342XJEeSMvoY2CznM7A" x="956" y="696"/>
+                      </children>
                     </children>
                     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oGC3QUqLEeSqcbUtV1j9Pw" x="8143" y="-1267" width="9771"/>
                   </children>
