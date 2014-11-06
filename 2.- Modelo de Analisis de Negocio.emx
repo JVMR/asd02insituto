@@ -2476,18 +2476,6 @@
                         <children xmi:type="notation:BasicDecorationNode" xmi:id="_wimSMUqeEeSWauiF0HUlNQ" type="Parent"/>
                         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wij18UqeEeSWauiF0HUlNQ" x="219" y="58293" width="3960" height="1437"/>
                       </children>
-                      <children xmi:type="notation:Shape" xmi:id="_QkP34GXJEeSMvoY2CznM7A" type="Note" fontName="Segoe UI" fontHeight="8" description="&lt;p>ROMARIO ES HACKER&lt;/p>&lt;p>&lt;/p>" fillColor="13956346" transparency="0" lineColor="12632258" lineWidth="1">
-                        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Qkg9oGXJEeSMvoY2CznM7A" type="DiagramName">
-                          <element xsi:nil="true"/>
-                        </children>
-                        <children xmi:type="notation:BasicDecorationNode" xmi:id="_QkiLwGXJEeSMvoY2CznM7A" type="Description">
-                          <element xsi:nil="true"/>
-                        </children>
-                        <styles xmi:type="notation:TextStyle" xmi:id="_QkP34WXJEeSMvoY2CznM7A"/>
-                        <styles xmi:type="notation:LineTypeStyle" xmi:id="_QkP34mXJEeSMvoY2CznM7A"/>
-                        <element xsi:nil="true"/>
-                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QkP342XJEeSMvoY2CznM7A" x="956" y="696"/>
-                      </children>
                     </children>
                     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oGC3QUqLEeSqcbUtV1j9Pw" x="8143" y="-1267" width="9771"/>
                   </children>
@@ -2505,7 +2493,7 @@
                         <children xmi:type="notation:BasicDecorationNode" xmi:id="_P_CJEEqNEeSqcbUtV1j9Pw" type="Parent"/>
                         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_P-_s0UqNEeSqcbUtV1j9Pw" x="269" y="10641"/>
                       </children>
-                      <children xmi:type="umlnotation:UMLShape" xmi:id="_TH4wYEqNEeSqcbUtV1j9Pw" element="_TH1tEEqNEeSqcbUtV1j9Pw" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                      <children xmi:type="umlnotation:UMLShape" xmi:id="_TH4wYEqNEeSqcbUtV1j9Pw" element="_TH1tEEqNEeSqcbUtV1j9Pw" fontName="Segoe UI" fontHeight="8" fillColor="9891566" transparency="0" lineColor="2342590" lineWidth="1" showStereotype="Label">
                         <children xmi:type="notation:DecorationNode" xmi:id="_TH5-gEqNEeSqcbUtV1j9Pw" type="ImageCompartment">
                           <layoutConstraint xmi:type="notation:Size" xmi:id="_TH5-gUqNEeSqcbUtV1j9Pw" width="1320" height="1320"/>
                         </children>
@@ -2746,6 +2734,18 @@
                           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KyduMWXDEeSmJ-7_x8IBiA" y="-186"/>
                         </children>
                         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KycgEWXDEeSmJ-7_x8IBiA" x="3648" y="49845"/>
+                      </children>
+                      <children xmi:type="notation:Shape" xmi:id="_t36TUGXWEeS_aYVPgw1AgA" type="Note" fontName="Segoe UI" fontHeight="8" description="&lt;p>evaluar - la ecu tendra una opcion buscar solicitud pendiente, en la cual se lista todos las solicitudes pendientes mediante check....&lt;/p>&lt;p>Luego regresa a la interfaz en la cual se vera la solicitud seleccionada y se podra evaluar con un check si se aprueba o no ademas de la opción guardar, reenviar para desaprobados &lt;/p>" fillColor="13956346" transparency="0" lineColor="12632258" lineWidth="1">
+                        <children xmi:type="notation:BasicDecorationNode" xmi:id="_t4DdQGXWEeS_aYVPgw1AgA" type="DiagramName">
+                          <element xsi:nil="true"/>
+                        </children>
+                        <children xmi:type="notation:BasicDecorationNode" xmi:id="_t4EEUGXWEeS_aYVPgw1AgA" type="Description">
+                          <element xsi:nil="true"/>
+                        </children>
+                        <styles xmi:type="notation:TextStyle" xmi:id="_t36TUWXWEeS_aYVPgw1AgA"/>
+                        <styles xmi:type="notation:LineTypeStyle" xmi:id="_t36TUmXWEeS_aYVPgw1AgA"/>
+                        <element xsi:nil="true"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_t36TU2XWEeS_aYVPgw1AgA" x="2192" y="6014" width="6323" height="4339"/>
                       </children>
                     </children>
                     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oTDYgUqLEeSqcbUtV1j9Pw" x="17914" y="-1267" width="12137"/>
@@ -4676,7 +4676,7 @@
             <weight xmi:type="uml:LiteralInteger" xmi:id="_kT1T0mW8EeSmJ-7_x8IBiA" value="1"/>
           </edge>
           <group xmi:type="uml:ActivityPartition" xmi:id="_n3jIQEqLEeSqcbUtV1j9Pw" name="" node="_wxYPsEqLEeSqcbUtV1j9Pw _s2fSAEqMEeSqcbUtV1j9Pw _151h0EqMEeSqcbUtV1j9Pw _0K5OkEqeEeSWauiF0HUlNQ _WRIuQGIQEeSEE9p0ywhVjw _iV6HsGIQEeSEE9p0ywhVjw _PPld8GW8EeSmJ-7_x8IBiA _UAmV4GW8EeSmJ-7_x8IBiA" edge="_16BIAEqMEeSqcbUtV1j9Pw _A4gO0EqNEeSqcbUtV1j9Pw _3wZVoEqeEeSWauiF0HUlNQ _f5Xz0GIQEeSEE9p0ywhVjw _iWD4sGIQEeSEE9p0ywhVjw _UA5Q0GW8EeSmJ-7_x8IBiA _YeQ0BmW8EeSmJ-7_x8IBiA">
-            <represents xmi:type="uml:Actor" href="1.-%20Modelo%20de%20Casos%20de%20Uso%20de%20Negocio.emx#_R4qoYEqGEeS8masyeM33Jg?1.-%20Modelo%20de%20Casos%20de%20Uso%20de%20Negocio/Actores%20de%20Negocio/Asalariado?"/>
+            <represents xmi:type="uml:Actor" href="1.-%20Modelo%20de%20Casos%20de%20Uso%20de%20Negocio.emx#_MBRlgGXVEeS_aYVPgw1AgA?1.-%20Modelo%20de%20Casos%20de%20Uso%20de%20Negocio/Actores%20de%20Negocio/Encargado%20de%20mesa%20de%20partes%20?"/>
           </group>
           <group xmi:type="uml:ActivityPartition" xmi:id="_oF_z8EqLEeSqcbUtV1j9Pw" name="" node="_7XdBEEqMEeSqcbUtV1j9Pw _A4XE4EqNEeSqcbUtV1j9Pw _CbwKQEqNEeSqcbUtV1j9Pw _VFGrAEqNEeSqcbUtV1j9Pw _XNU7wEqNEeSqcbUtV1j9Pw _dE-RUEqdEeSWauiF0HUlNQ _fx38cEqdEeSWauiF0HUlNQ _f4EMQGIQEeSEE9p0ywhVjw _ajuS4GISEeSEE9p0ywhVjw _wigyoEqeEeSWauiF0HUlNQ _YeHDAGW8EeSmJ-7_x8IBiA" represents="_rWBsMEqJEeS8masyeM33Jg" edge="_XNeswEqNEeSqcbUtV1j9Pw _X73cwEqNEeSqcbUtV1j9Pw _fySMIEqdEeSWauiF0HUlNQ _i2La8EqdEeSWauiF0HUlNQ _t8jIwGISEeSEE9p0ywhVjw _kT1T0GW8EeSmJ-7_x8IBiA"/>
           <group xmi:type="uml:ActivityPartition" xmi:id="_oTAVMEqLEeSqcbUtV1j9Pw" name="" node="_P-8pgEqNEeSqcbUtV1j9Pw _TH1tEEqNEeSqcbUtV1j9Pw _bxS2MEqNEeSqcbUtV1j9Pw _oHcTgEqNEeSqcbUtV1j9Pw _o7K2gEqNEeSqcbUtV1j9Pw _BFBycEqOEeSqcbUtV1j9Pw _e8VmIEqeEeSWauiF0HUlNQ _k7tuoEqeEeSWauiF0HUlNQ _rZTdIEqeEeSWauiF0HUlNQ _ttKWIEqeEeSWauiF0HUlNQ _POSjcEqfEeSWauiF0HUlNQ _RMZ18EqfEeSWauiF0HUlNQ _hkmzcEqfEeSWauiF0HUlNQ _oZeZgEqfEeSWauiF0HUlNQ _pgy_MEqlEeSWauiF0HUlNQ _vvWzMEqlEeSWauiF0HUlNQ _1hFhQEqlEeSWauiF0HUlNQ _6Aj9QEqlEeSWauiF0HUlNQ _RoEaEEqmEeSWauiF0HUlNQ _wVMOsEqmEeSWauiF0HUlNQ _iZesUEqnEeSWauiF0HUlNQ _kuHBYEqnEeSWauiF0HUlNQ _-F0fgGTdEeS7EMuF6wV5Ug" represents="_yk4fkEqJEeS8masyeM33Jg" edge="_ftQ8gEqNEeSqcbUtV1j9Pw __shucEqNEeSqcbUtV1j9Pw _BFMKgEqOEeSqcbUtV1j9Pw _k76i8EqeEeSWauiF0HUlNQ _ttRq4EqeEeSWauiF0HUlNQ _zT58MEqeEeSWauiF0HUlNQ _RMgjoEqfEeSWauiF0HUlNQ _oZp_sEqfEeSWauiF0HUlNQ _dO3s0EqgEeSWauiF0HUlNQ _6Au8YEqlEeSWauiF0HUlNQ _TJDEoEqmEeSWauiF0HUlNQ _zj2jEEqmEeSWauiF0HUlNQ _1YV_gEqmEeSWauiF0HUlNQ _oybLYEqnEeSWauiF0HUlNQ __U1BUEqnEeSWauiF0HUlNQ _QNJCQEqoEeSWauiF0HUlNQ _Ksco0GTeEeS7EMuF6wV5Ug"/>
