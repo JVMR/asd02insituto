@@ -2234,7 +2234,7 @@
                     <children xmi:type="notation:BasicDecorationNode" xmi:id="_n33RUEqLEeSqcbUtV1j9Pw" type="Stereotype"/>
                     <children xmi:type="notation:BasicDecorationNode" xmi:id="_n33RUUqLEeSqcbUtV1j9Pw" type="PartitionName"/>
                     <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_n334YEqLEeSqcbUtV1j9Pw" type="PartitionCompartment">
-                      <children xmi:type="umlnotation:UMLShape" xmi:id="_tTNfsEqLEeSqcbUtV1j9Pw" element="_tS59sEqLEeSqcbUtV1j9Pw" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
+                      <children xmi:type="umlnotation:UMLShape" xmi:id="_tTNfsEqLEeSqcbUtV1j9Pw" element="_tS59sEqLEeSqcbUtV1j9Pw" fontName="Segoe UI" fontHeight="8" fillColor="9891566" transparency="0" lineColor="2342590" lineWidth="1" showStereotype="Label">
                         <children xmi:type="notation:DecorationNode" xmi:id="_tTPU4EqLEeSqcbUtV1j9Pw" type="ImageCompartment">
                           <layoutConstraint xmi:type="notation:Size" xmi:id="_tTPU4UqLEeSqcbUtV1j9Pw" width="1320" height="1320"/>
                         </children>
