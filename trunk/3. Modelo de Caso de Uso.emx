@@ -1949,7 +1949,7 @@
         </contents>
       </eAnnotations>
       <packagedElement xmi:type="uml:UseCase" xmi:id="_H12qYEqsEeSAc_MCztZ6iQ" name="CUN04 - Consultar expdiente de LES"/>
-      <packagedElement xmi:type="uml:UseCase" xmi:id="_m9JvAEqrEeSAc_MCztZ6iQ" name="CUN01 - Registrar soliticud de LES">
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_m9JvAEqrEeSAc_MCztZ6iQ" name="CUN01 - Generar solicitud de LES">
         <include xmi:id="_B1BFUFl-EeSYefsE7-sKbA" addition="_8mLB4Fl9EeSYefsE7-sKbA"/>
       </packagedElement>
       <packagedElement xmi:type="uml:UseCase" xmi:id="_EkbV4EqsEeSAc_MCztZ6iQ" name="CUN03 - Evaluar expediente de LES">
