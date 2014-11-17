@@ -710,15 +710,6 @@
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_1-hJNWIUEeSEE9p0ywhVjw" type="Parent"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1-hJNmIUEeSEE9p0ywhVjw" x="14916" y="3564"/>
           </children>
-          <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_MJOAkGXVEeS_aYVPgw1AgA" element="_MBRlgGXVEeS_aYVPgw1AgA" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Image" useClassifierShape="true">
-            <children xmi:type="notation:DecorationNode" xmi:id="_MJOAkWXVEeS_aYVPgw1AgA" type="ImageCompartment">
-              <layoutConstraint xmi:type="notation:Size" xmi:id="_MJOAkmXVEeS_aYVPgw1AgA" width="1455" height="2381"/>
-            </children>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_MJOAk2XVEeS_aYVPgw1AgA" type="Stereotype"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_MJOAlGXVEeS_aYVPgw1AgA" type="Name"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_MJOAlWXVEeS_aYVPgw1AgA" type="Parent"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MJOAlmXVEeS_aYVPgw1AgA" x="22440" y="6600"/>
-          </children>
           <element xsi:nil="true"/>
         </contents>
       </eAnnotations>
@@ -748,7 +739,6 @@
         </ownedEnd>
       </packagedElement>
       <packagedElement xmi:type="uml:Actor" xmi:id="_1-Tt0GIUEeSEE9p0ywhVjw" name="Sistema control de asistencia"/>
-      <packagedElement xmi:type="uml:Actor" xmi:id="_MBRlgGXVEeS_aYVPgw1AgA" name="Encargado de mesa de partes "/>
     </packagedElement>
     <profileApplication xmi:id="_zhuEJkVlEeOUYZ9ndk9_bA">
       <eAnnotations xmi:id="_zhuEJ0VlEeOUYZ9ndk9_bA" source="http://www.eclipse.org/uml2/2.0.0/UML">
@@ -789,5 +779,4 @@
   <BusinessModeling:BusinessGoal xmi:id="_D7V-0Eq7EeSfMpbm9uiMWw" base_Class="_DvNAQEq7EeSfMpbm9uiMWw"/>
   <BusinessModeling:BusinessGoal xmi:id="_JdQvQEq7EeSfMpbm9uiMWw" base_Class="_I6FwwEq7EeSfMpbm9uiMWw"/>
   <BusinessModeling:BusinessActor xmi:id="_1-UU4GIUEeSEE9p0ywhVjw" base_Actor="_1-Tt0GIUEeSEE9p0ywhVjw"/>
-  <BusinessModeling:BusinessActor xmi:id="_MB2NQGXVEeS_aYVPgw1AgA" base_Actor="_MBRlgGXVEeS_aYVPgw1AgA"/>
 </xmi:XMI>
