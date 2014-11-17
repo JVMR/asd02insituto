@@ -925,7 +925,7 @@
         <children xmi:type="notation:BasicDecorationNode" xmi:id="_QGI0sBkLEeSWDpYH3ZBZ3Q" type="Name"/>
         <children xmi:type="notation:BasicDecorationNode" xmi:id="_QGI0sRkLEeSWDpYH3ZBZ3Q" type="Parent"/>
         <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_QGI0shkLEeSWDpYH3ZBZ3Q" type="PackageContents" collapsed="true" canonical="false"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QGCHARkLEeSWDpYH3ZBZ3Q" x="3960" y="2904"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QGCHARkLEeSWDpYH3ZBZ3Q" x="8712" y="4884"/>
       </children>
       <children xmi:type="umlnotation:UMLShape" xmi:id="_RBebkBkLEeSWDpYH3ZBZ3Q" element="_RBb_UBkLEeSWDpYH3ZBZ3Q" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
         <children xmi:type="notation:DecorationNode" xmi:id="_RBfpsBkLEeSWDpYH3ZBZ3Q" type="ImageCompartment">
@@ -935,9 +935,17 @@
         <children xmi:type="notation:BasicDecorationNode" xmi:id="_RBfpsxkLEeSWDpYH3ZBZ3Q" type="Name"/>
         <children xmi:type="notation:BasicDecorationNode" xmi:id="_RBgQwBkLEeSWDpYH3ZBZ3Q" type="Parent"/>
         <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_RBgQwRkLEeSWDpYH3ZBZ3Q" type="PackageContents" collapsed="true" canonical="false"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RBebkRkLEeSWDpYH3ZBZ3Q" x="3828" y="5940"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RBebkRkLEeSWDpYH3ZBZ3Q" x="8976" y="1584"/>
       </children>
       <element xsi:nil="true"/>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_Xedp8WmYEeSh7e4jG1GUYw" element="_Xedp8GmYEeSh7e4jG1GUYw" source="_QGCHABkLEeSWDpYH3ZBZ3Q" target="_RBebkBkLEeSWDpYH3ZBZ3Q" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_XejwkGmYEeSh7e4jG1GUYw" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_XejwkmmYEeSh7e4jG1GUYw" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_Xejwk2mYEeSh7e4jG1GUYw" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XejwkWmYEeSh7e4jG1GUYw" y="-186"/>
+        </children>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Xedp8mmYEeSh7e4jG1GUYw" points="[1, -16, -24, 109]$[74, -125, 49, 0]"/>
+      </edges>
     </contents>
   </eAnnotations>
   <eAnnotations xmi:id="_wvuA4xkJEeSWDpYH3ZBZ3Q" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
@@ -1026,7 +1034,7 @@
   <packageImport xmi:id="_wvuBNRkJEeSWDpYH3ZBZ3Q">
     <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
   </packageImport>
-  <packagedElement xmi:type="uml:Package" xmi:id="_QFeGUBkLEeSWDpYH3ZBZ3Q" name="Actores">
+  <packagedElement xmi:type="uml:Package" xmi:id="_QFeGUBkLEeSWDpYH3ZBZ3Q" name="Actores" clientDependency="_Xedp8GmYEeSh7e4jG1GUYw">
     <eAnnotations xmi:id="_QF_DsBkLEeSWDpYH3ZBZ3Q" source="uml2.diagrams" references="_QF_qwBkLEeSWDpYH3ZBZ3Q">
       <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_QF_qwBkLEeSWDpYH3ZBZ3Q" type="Freeform" name="Actores">
         <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_b9aD8EqrEeSAc_MCztZ6iQ" element="_b9SIIEqrEeSAc_MCztZ6iQ" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
@@ -1242,6 +1250,7 @@
       </ownedEnd>
     </packagedElement>
     <packagedElement xmi:type="uml:Actor" xmi:id="_SvXSwGfFEeSQ1ePc7jIv7Q" name="Encargado de unidades organicas"/>
+    <packagedElement xmi:type="uml:Dependency" xmi:id="_Xedp8GmYEeSh7e4jG1GUYw" supplier="_RBb_UBkLEeSWDpYH3ZBZ3Q" client="_QFeGUBkLEeSWDpYH3ZBZ3Q"/>
   </packagedElement>
   <packagedElement xmi:type="uml:Package" xmi:id="_RBb_UBkLEeSWDpYH3ZBZ3Q" name="Casos de Uso">
     <eAnnotations xmi:id="_RBcmYBkLEeSWDpYH3ZBZ3Q" source="uml2.diagrams" references="_RBcmYRkLEeSWDpYH3ZBZ3Q">
