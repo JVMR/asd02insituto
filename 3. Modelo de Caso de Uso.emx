@@ -977,7 +977,7 @@
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_m1YGIGfCEeSQ1ePc7jIv7Q"/>
       </ownedEnd>
     </packagedElement>
-    <packagedElement xmi:type="uml:Actor" xmi:id="_SvXSwGfFEeSQ1ePc7jIv7Q" name="Encargado de unidades organicas"/>
+    <packagedElement xmi:type="uml:Actor" xmi:id="_SvXSwGfFEeSQ1ePc7jIv7Q" name="Encargado de unidad organica"/>
     <packagedElement xmi:type="uml:Dependency" xmi:id="_Xedp8GmYEeSh7e4jG1GUYw" supplier="_RBb_UBkLEeSWDpYH3ZBZ3Q" client="_QFeGUBkLEeSWDpYH3ZBZ3Q"/>
     <packagedElement xmi:type="uml:Association" xmi:id="_Cw0SMG6mEeSc9P9QXxQ1Dw" memberEnd="_Cw8OAG6mEeSc9P9QXxQ1Dw _CxckUG6mEeSc9P9QXxQ1Dw" navigableOwnedEnd="_Cw8OAG6mEeSc9P9QXxQ1Dw">
       <ownedEnd xmi:id="_Cw8OAG6mEeSc9P9QXxQ1Dw" name="cUN11 - Generar Programacion de Productividad y AETA" visibility="private" type="_xazooG6lEeSc9P9QXxQ1Dw" association="_Cw0SMG6mEeSc9P9QXxQ1Dw">
