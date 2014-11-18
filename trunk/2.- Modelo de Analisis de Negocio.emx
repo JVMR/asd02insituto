@@ -6757,7 +6757,7 @@
           </node>
           <node xmi:type="uml:OpaqueAction" xmi:id="_704UEE6WEeSrnZ2SM-P_jQ" name="Firma planilla de pagos de productividad y AETA" outgoing="_I2-4cE6XEeSrnZ2SM-P_jQ" incoming="_9VJ0AE6WEeSrnZ2SM-P_jQ" inPartition="_XDhSoE52EeSCgPUxQQm1pg"/>
           <node xmi:type="uml:OpaqueAction" xmi:id="_BXNUME6XEeSrnZ2SM-P_jQ" name="Remite documentos firmados" outgoing="_W5MO8E6XEeSrnZ2SM-P_jQ" incoming="_I2-4cE6XEeSrnZ2SM-P_jQ" inPartition="_XDhSoE52EeSCgPUxQQm1pg"/>
-          <node xmi:type="uml:OpaqueAction" xmi:id="_S4JbYE6XEeSrnZ2SM-P_jQ" name="Recepciona documento firmadors" outgoing="_ojLkcE6XEeSrnZ2SM-P_jQ" incoming="_W5MO8E6XEeSrnZ2SM-P_jQ" inPartition="_L1XVIE6XEeSrnZ2SM-P_jQ"/>
+          <node xmi:type="uml:OpaqueAction" xmi:id="_S4JbYE6XEeSrnZ2SM-P_jQ" name="Recepciona documento firmados" outgoing="_ojLkcE6XEeSrnZ2SM-P_jQ" incoming="_W5MO8E6XEeSrnZ2SM-P_jQ" inPartition="_L1XVIE6XEeSrnZ2SM-P_jQ"/>
           <node xmi:type="uml:ActivityFinalNode" xmi:id="_UvohcE6XEeSrnZ2SM-P_jQ" name="Fin del proceso" incoming="_sIbz4E6XEeSrnZ2SM-P_jQ"/>
           <node xmi:type="uml:OpaqueAction" xmi:id="_hUS74E6XEeSrnZ2SM-P_jQ" name="Firma documentos" outgoing="_r10Z4E6XEeSrnZ2SM-P_jQ" incoming="_ojLkcE6XEeSrnZ2SM-P_jQ" inPartition="_L1XVIE6XEeSrnZ2SM-P_jQ"/>
           <node xmi:type="uml:OpaqueAction" xmi:id="_pU6jYE6XEeSrnZ2SM-P_jQ" name="Emite documentos a oficina de enconomia" outgoing="_sIbz4E6XEeSrnZ2SM-P_jQ" incoming="_r10Z4E6XEeSrnZ2SM-P_jQ" inPartition="_L1XVIE6XEeSrnZ2SM-P_jQ"/>
