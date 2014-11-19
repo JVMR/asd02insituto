@@ -1072,7 +1072,7 @@
           <element xsi:nil="true"/>
         </contents>
       </eAnnotations>
-      <packagedElement xmi:type="uml:UseCase" xmi:id="_8mLB4Fl9EeSYefsE7-sKbA" name="CUN02 - Buscar Asalariado"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_8mLB4Fl9EeSYefsE7-sKbA" name="CUN02 - Consultar Asalariado"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_WipIoBkMEeSWDpYH3ZBZ3Q" name="Seguridad">
       <eAnnotations xmi:id="_WiqWwBkMEeSWDpYH3ZBZ3Q" source="uml2.diagrams" references="_WiqWwRkMEeSWDpYH3ZBZ3Q">
