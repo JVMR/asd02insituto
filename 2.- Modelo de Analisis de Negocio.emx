@@ -5811,7 +5811,7 @@
                         <children xmi:type="notation:BasicDecorationNode" xmi:id="_BXSMsE6XEeSrnZ2SM-P_jQ" type="InPartitions"/>
                         <children xmi:type="notation:BasicDecorationNode" xmi:id="_BXSMsU6XEeSrnZ2SM-P_jQ" type="Name"/>
                         <children xmi:type="notation:BasicDecorationNode" xmi:id="_BXSMsk6XEeSrnZ2SM-P_jQ" type="Parent"/>
-                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BXQ-kU6XEeSrnZ2SM-P_jQ" x="1909" y="42255"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BXQ-kU6XEeSrnZ2SM-P_jQ" x="1909" y="41790"/>
                       </children>
                       <children xmi:type="notation:Shape" xmi:id="_8PmxEE9uEeSETJ5lURCtQA" type="Note" fontName="Segoe UI" fontHeight="8" description="&lt;p>se revisa ambos como en el caso de uso de verificar expediente de les &lt;/p>&lt;p>&lt;/p>" fillColor="13956346" transparency="0" lineColor="12632258" lineWidth="1">
                         <children xmi:type="notation:BasicDecorationNode" xmi:id="_8PomQE9uEeSETJ5lURCtQA" type="DiagramName">
