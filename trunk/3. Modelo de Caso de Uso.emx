@@ -1598,7 +1598,7 @@
       <packagedElement xmi:type="uml:UseCase" xmi:id="_EkbV4EqsEeSAc_MCztZ6iQ" name="CUN03 - Evaluar solicitud de LES">
         <include xmi:id="_ZGN-8EqsEeSAc_MCztZ6iQ" addition="_H12qYEqsEeSAc_MCztZ6iQ"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:UseCase" xmi:id="_nnzuMEquEeSAc_MCztZ6iQ" name="CUN05 - Verificar descanso medico de solicitud de LES.">
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_nnzuMEquEeSAc_MCztZ6iQ" name="CUN05 - Verificar descanso medico de Asalariado">
         <include xmi:id="_3ph-AEqxEeSAc_MCztZ6iQ" addition="_H12qYEqsEeSAc_MCztZ6iQ"/>
         <extensionPoint xmi:id="_j2pXkHA7EeSXJYaA_CtQAQ" name="Puntodeextensión1"/>
       </packagedElement>
