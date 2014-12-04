@@ -1433,6 +1433,9 @@
             <element xsi:nil="true"/>
           </contents>
         </eAnnotations>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="__hU5gE-7EeS2h7nEPBcJJg" name="CUN15 - Generar cruce de horarios, reporte y informe">
+          <include xmi:id="_fAiSYE-8EeS2h7nEPBcJJg" addition="_mBKHYE-6EeS2h7nEPBcJJg"/>
+        </packagedElement>
       </packagedElement>
       <packagedElement xmi:type="uml:Package" xmi:id="_EE_VwEqJEeS8masyeM33Jg" name="Licencia por enfermedad subsidiada">
         <eAnnotations xmi:id="_EE_VwUqJEeS8masyeM33Jg" source="uml2.diagrams" references="_EE_VwkqJEeS8masyeM33Jg">
@@ -2567,22 +2570,19 @@
             </edges>
           </contents>
         </eAnnotations>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_U4ag8E--EeS2h7nEPBcJJg" name="CUN17 - Evalua Reporte e Informe de Programación de Productividad y AETA">
+          <include xmi:id="_hMSMsE_GEeSHs_l0qqIHpg" addition="_2l3EQE_EEeSHs_l0qqIHpg"/>
+        </packagedElement>
         <packagedElement xmi:type="uml:UseCase" xmi:id="_mBKHYE-6EeS2h7nEPBcJJg" name="CUN16 - Consultar Expediente de Programación y AETA">
           <ownedComment xmi:id="_fN8XsHtrEeSLv4CqpO2UJA" annotatedElement="_mBKHYE-6EeS2h7nEPBcJJg">
             <body>&lt;p >&lt;b>&lt;/b>&lt;/p></body>
           </ownedComment>
-        </packagedElement>
-        <packagedElement xmi:type="uml:UseCase" xmi:id="__hU5gE-7EeS2h7nEPBcJJg" name="CUN15 - Generar cruce de horarios, reporte y informe">
-          <include xmi:id="_fAiSYE-8EeS2h7nEPBcJJg" addition="_mBKHYE-6EeS2h7nEPBcJJg"/>
         </packagedElement>
         <packagedElement xmi:type="uml:UseCase" xmi:id="_uMFaEE-9EeS2h7nEPBcJJg" name="CUN19 - Generar planilla de pago de Asalariados">
           <include xmi:id="_4dY7sE_GEeSHs_l0qqIHpg" addition="_2l3EQE_EEeSHs_l0qqIHpg"/>
         </packagedElement>
         <packagedElement xmi:type="uml:UseCase" xmi:id="_6if9IE-9EeS2h7nEPBcJJg" name="CUN20 - Evaluar Planilla de pago">
           <include xmi:id="_TG8NME_HEeSHs_l0qqIHpg" addition="_OMeeUE_HEeSHs_l0qqIHpg"/>
-        </packagedElement>
-        <packagedElement xmi:type="uml:UseCase" xmi:id="_U4ag8E--EeS2h7nEPBcJJg" name="CUN17 - Evalua Reporte e Informe de Programación de Productividad y AETA">
-          <include xmi:id="_hMSMsE_GEeSHs_l0qqIHpg" addition="_2l3EQE_EEeSHs_l0qqIHpg"/>
         </packagedElement>
         <packagedElement xmi:type="uml:UseCase" xmi:id="_2l3EQE_EEeSHs_l0qqIHpg" name="CUN18 - Consultar reporte e informe de Programacion de Productividad y AETA"/>
         <packagedElement xmi:type="uml:UseCase" xmi:id="_OMeeUE_HEeSHs_l0qqIHpg" name="CUN21 - Consultar planilla de pago"/>
